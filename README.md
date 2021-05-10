@@ -2,8 +2,3 @@
 
 💻 Software Developer <br/>
 🏡 Brazilian, Based in Freguesia, RJ 🌎
-
-### You can find me on
-
-🐦 [Twitter](https://twitter.com/g3orgebias) <br/>
-⚛️ [My site](https://georgebias.com.br)
